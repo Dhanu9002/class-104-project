@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(141, 236, 236);
+    color: white;
+}
+
+.title{
+    width: 80%;
+    font-size: 22px;
+}
+.bold-text,#object,#accuracy{
+    color: rgb(250, 171, 208);
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+
